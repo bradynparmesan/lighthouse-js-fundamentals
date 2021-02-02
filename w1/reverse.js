@@ -1,4 +1,3 @@
-'use strict';
 for (let j = 2; j < process.argv.length; j++) {
   let stringNow = "";
   stringNow += process.argv[j];
